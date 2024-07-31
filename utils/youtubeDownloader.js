@@ -123,7 +123,7 @@ async function downloadPlaylist(data) {
   while (curr < data.videos.items.length) {
     const videoData = data.videos.items[curr];
     const videoId = videoData.id;
-    const videoTitle = videoData.title;
+    const videoTitle = `${curr + 1}. ${videoData.title}`;
     const videoUrl = `https://www.youtube.com/watch?v=${videoId}`;
     console.log("downloading:", videoTitle);
     await downloadVideo(videoUrl, videoTitle);
