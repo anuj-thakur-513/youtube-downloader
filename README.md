@@ -4,7 +4,8 @@ This is a youtube downloader where you can either paste a video or a playlist li
 
 
 
-![image](https://github.com/user-attachments/assets/e6286808-3e94-4931-93ac-b6ea37d144f8)
+![image](https://github.com/user-attachments/assets/2f2d1044-8423-4c53-941f-fb47bada194e)
+
 
 https://github.com/user-attachments/assets/231fab33-8879-4679-b2e6-2a07b646554b
 
